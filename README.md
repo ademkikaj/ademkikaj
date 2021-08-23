@@ -1,8 +1,8 @@
 
 <h2 align=center>👋 Hi there! I'm Adem.</h2>
 
-- 🔭 I’m currently part of [DTAI - KU Leuven](https://dtai.cs.kuleuven.be/)
-- 📫 How to reach me: [here](https://ademkikaj.github.io)
+- 🔭  I’m currently part of [DTAI - KU Leuven](https://dtai.cs.kuleuven.be/)
+- 📫  How to reach me: [here](https://ademkikaj.github.io)
 <!--
 **ademkikaj/ademkikaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
